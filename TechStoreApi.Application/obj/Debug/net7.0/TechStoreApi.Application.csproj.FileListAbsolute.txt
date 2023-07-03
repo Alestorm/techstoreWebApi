@@ -1,0 +1,15 @@
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\bin\Debug\net7.0\TechStoreApi.Application.deps.json
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\bin\Debug\net7.0\TechStoreApi.Application.dll
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\bin\Debug\net7.0\TechStoreApi.Application.pdb
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\bin\Debug\net7.0\TechStoreApi.Domain.dll
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\bin\Debug\net7.0\TechStoreApi.Domain.pdb
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\obj\Debug\net7.0\TechStoreApi.Application.csproj.AssemblyReference.cache
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\obj\Debug\net7.0\TechStoreApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\obj\Debug\net7.0\TechStoreApi.Application.AssemblyInfoInputs.cache
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\obj\Debug\net7.0\TechStoreApi.Application.AssemblyInfo.cs
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\obj\Debug\net7.0\TechStoreApi.Application.csproj.CoreCompileInputs.cache
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\obj\Debug\net7.0\TechStoreApi.Application.csproj.CopyComplete
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\obj\Debug\net7.0\TechStoreApi.Application.dll
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\obj\Debug\net7.0\refint\TechStoreApi.Application.dll
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\obj\Debug\net7.0\TechStoreApi.Application.pdb
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Application\obj\Debug\net7.0\ref\TechStoreApi.Application.dll

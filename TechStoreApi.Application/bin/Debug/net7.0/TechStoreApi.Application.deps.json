@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TechStoreApi.Application/1.0.0": {
+        "dependencies": {
+          "TechStoreApi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TechStoreApi.Application.dll": {}
+        }
+      },
+      "TechStoreApi.Domain/1.0.0": {
+        "runtime": {
+          "TechStoreApi.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TechStoreApi.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TechStoreApi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

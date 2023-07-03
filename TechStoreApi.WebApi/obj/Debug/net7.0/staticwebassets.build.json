@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "muu2vPck6hYIiFZxYjf7IVQCRzTREYBneuXI1cbli9s=",
+  "Source": "TechStoreApi.WebApi",
+  "BasePath": "_content/TechStoreApi.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
