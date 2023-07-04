@@ -16,10 +16,28 @@ namespace TechStoreApi.WebApi.Controllers
             _builderService = builderService;
         }
         [HttpPost]
-        public IActionResult Create([FromBody] Builder builder)
+        public ActionResult<Response<int>> Create([FromBody] Builder builder)
         {
             var response = _builderService.Create(builder);
-            return Ok(JsonConvert.SerializeObject(response));
+            return response;
+        }
+        [HttpGet]
+        public ActionResult<Response<List<Builder>>> GetAll()
+        {
+            var response = _builderService.GetAll();
+            return response;
+        }
+        [HttpGet("{id}")]
+        public ActionResult<Response<Builder>> GetById([FromRoute] int id)
+        {
+            var response = _builderService.GetById(id);
+            return response;
+        }
+        [HttpPut]
+        public ActionResult<Response<Builder>> Update([FromBody] Builder builder)
+        {
+            var response = _builderService.Update(builder);
+            return response;
         }
     }
 }

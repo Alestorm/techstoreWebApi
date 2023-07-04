@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TechStoreApi.Application\TechStoreApi.Application.csproj" />
     <ProjectReference Include="..\TechStoreApi.Domain\TechStoreApi.Domain.csproj" />
   </ItemGroup>
 

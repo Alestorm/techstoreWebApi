@@ -1,3 +1,4 @@
+using TechStoreApi.Application.Interfaces;
 using TechStoreApi.Application.Services;
 using TechStoreApi.Domain.Interfaces;
 using TechStoreApi.Infraestructure.Connections;
@@ -21,6 +22,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<IBuilderRepository, BuilderRepository>(b => new BuilderRepository(connectionString));
+builder.Services.AddSingleton<IProductRepository, ProductRepository>(p => new ProductRepository(connectionString));
+builder.Services.AddSingleton<IProductService, ProductService>();
 builder.Services.AddSingleton<BuilderService>();
 
 var app = builder.Build();

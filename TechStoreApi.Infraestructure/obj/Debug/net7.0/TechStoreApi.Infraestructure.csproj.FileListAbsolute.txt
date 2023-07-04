@@ -13,3 +13,5 @@ D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Infraestructure\obj\De
 D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Infraestructure\obj\Debug\net7.0\refint\TechStoreApi.Infraestructure.dll
 D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Infraestructure\obj\Debug\net7.0\TechStoreApi.Infraestructure.pdb
 D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Infraestructure\obj\Debug\net7.0\ref\TechStoreApi.Infraestructure.dll
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Infraestructure\bin\Debug\net7.0\TechStoreApi.Application.dll
+D:\NetCore Project\TechStoreApi\TechStoreApi\TechStoreApi.Infraestructure\bin\Debug\net7.0\TechStoreApi.Application.pdb

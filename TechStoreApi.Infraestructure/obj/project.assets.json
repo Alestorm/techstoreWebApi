@@ -712,6 +712,19 @@
           }
         }
       },
+      "TechStoreApi.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "TechStoreApi.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TechStoreApi.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TechStoreApi.Application.dll": {}
+        }
+      },
       "TechStoreApi.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -2006,6 +2019,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "TechStoreApi.Application/1.0.0": {
+      "type": "project",
+      "path": "../TechStoreApi.Application/TechStoreApi.Application.csproj",
+      "msbuildProject": "../TechStoreApi.Application/TechStoreApi.Application.csproj"
+    },
     "TechStoreApi.Domain/1.0.0": {
       "type": "project",
       "path": "../TechStoreApi.Domain/TechStoreApi.Domain.csproj",
@@ -2015,6 +2033,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.Data.SqlClient >= 5.1.1",
+      "TechStoreApi.Application >= 1.0.0",
       "TechStoreApi.Domain >= 1.0.0"
     ]
   },
@@ -2045,6 +2064,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "D:\\NetCore Project\\TechStoreApi\\TechStoreApi\\TechStoreApi.Application\\TechStoreApi.Application.csproj": {
+              "projectPath": "D:\\NetCore Project\\TechStoreApi\\TechStoreApi\\TechStoreApi.Application\\TechStoreApi.Application.csproj"
+            },
             "D:\\NetCore Project\\TechStoreApi\\TechStoreApi\\TechStoreApi.Domain\\TechStoreApi.Domain.csproj": {
               "projectPath": "D:\\NetCore Project\\TechStoreApi\\TechStoreApi\\TechStoreApi.Domain\\TechStoreApi.Domain.csproj"
             }

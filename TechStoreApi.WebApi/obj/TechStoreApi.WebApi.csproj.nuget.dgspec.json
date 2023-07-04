@@ -142,6 +142,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "D:\\NetCore Project\\TechStoreApi\\TechStoreApi\\TechStoreApi.Application\\TechStoreApi.Application.csproj": {
+                "projectPath": "D:\\NetCore Project\\TechStoreApi\\TechStoreApi\\TechStoreApi.Application\\TechStoreApi.Application.csproj"
+              },
               "D:\\NetCore Project\\TechStoreApi\\TechStoreApi\\TechStoreApi.Domain\\TechStoreApi.Domain.csproj": {
                 "projectPath": "D:\\NetCore Project\\TechStoreApi\\TechStoreApi\\TechStoreApi.Domain\\TechStoreApi.Domain.csproj"
               }

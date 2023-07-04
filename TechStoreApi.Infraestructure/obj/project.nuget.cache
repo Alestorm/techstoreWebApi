@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2zm43SDRa/qImT8OOcF2LHdFZv3KBmvTWMl6IV9SVlklMYhyGii7iRYaDqbinnZ2hwqRSVTBWY75F+IXZ12g2Q==",
+  "dgSpecHash": "wzLM8Bw3b15JFLEgzixqNpToM5wRBnLRNEzUSxRd0yQ9lQMQ39mxGIH3vjrRxeMeS5PaYWlc6m1j6YsxPKFl+A==",
   "success": true,
   "projectFilePath": "D:\\NetCore Project\\TechStoreApi\\TechStoreApi\\TechStoreApi.Infraestructure\\TechStoreApi.Infraestructure.csproj",
   "expectedPackageFiles": [

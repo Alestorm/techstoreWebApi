@@ -10,6 +10,8 @@ namespace TechStoreApi.Domain.Interfaces
     public interface IBuilderRepository
     {
         Response<int> Create(Builder builder);
-        
+        Response<List<Builder>> GetAll();
+        Response<Builder> GetById(int id);
+        Response<Builder> Update(Builder builder);
     }
 }

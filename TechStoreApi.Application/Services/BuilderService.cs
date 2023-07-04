@@ -21,5 +21,23 @@ namespace TechStoreApi.Application.Services
             response = _builderRepository.Create(builder);
             return response;
         }
+        public Response<List<Builder>> GetAll()
+        {
+            Response<List<Builder>> response = new Response<List<Builder>>();
+            response = _builderRepository.GetAll();
+            return response;
+        }
+        public Response<Builder> GetById(int id)
+        {
+            Response<Builder> response = new Response<Builder>();
+            response = _builderRepository.GetById(id);
+            return response;
+        }
+        public Response<Builder> Update(Builder builder)
+        {
+            Response<Builder> response = new Response<Builder>();
+            response = _builderRepository.Update(builder);
+            return response;
+        }
     }
 }

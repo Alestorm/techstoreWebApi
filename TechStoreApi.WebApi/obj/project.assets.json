@@ -859,6 +859,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.1",
+          "TechStoreApi.Application": "1.0.0",
           "TechStoreApi.Domain": "1.0.0"
         },
         "compile": {
